@@ -29,3 +29,36 @@ File Uploads: Multer
 
 State Management: React hooks + local storage
 
+## 📦 Installation
+
+> ⚠️ Requires [Node.js](https://nodejs.org/) and [MongoDB](https://www.mongodb.com/) installed on your machine.
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/e-commerce.git
+cd e-commerce
+```
+### 2. Set up environment variables
+
+Create a .env file in the server/ directory and add:
+
+```bash
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+```
+### 3. Install dependencies
+```bash
+# Backend
+npm install express
+npm install jsonwebtoken
+npm install mongoose
+npm install multer
+npm install cors
+
+# Frontend
+npm install
+
+# Admin
+npm install
+```
