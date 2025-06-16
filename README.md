@@ -1,7 +1,7 @@
 # E-Commerce Prototype
 This is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). The project features a product management system, user authentication using JSON Web Tokens (JWT), image upload support with Multer, and a functional shopping cart.
 
-🔧 Features
+## 🔧 Features
 📦 Add, display, and delete products (with image uploads)
 
 🛍️ Category-based product browsing
@@ -16,7 +16,7 @@ This is a full-stack e-commerce web application built with the MERN stack (Mongo
 
 🧩 Organized structure (backend APIs, frontend, admin panel)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: React.js
 
 Backend: Node.js, Express.js
