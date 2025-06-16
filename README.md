@@ -62,3 +62,13 @@ npm install
 # Admin
 npm install
 ```
+### 📂 Folder Structure
+
+```bash
+e-commerce/
+├── admin          # React admin
+├── frontend/        # React frontend
+├── backend/        # Express backend
+├── .env           # Environment variables
+└── README.md
+```
